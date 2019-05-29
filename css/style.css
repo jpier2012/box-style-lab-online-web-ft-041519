@@ -5,10 +5,8 @@ body, html {
   margin: 0 auto;
   display: block;
   text-align: center;
-  background-image: url("/images/white-wood.jpg");
-  background-repeat: no-repeat;
+  background-image: url("/images/white-wood.jpg") no-repeat center fixed;
   background-size: cover;
-  background-fixed: true;
 }
 
 img {
